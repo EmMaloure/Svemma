@@ -1,3 +1,3 @@
 # Svemma
-Das ist ein toller Test.
-Ich bin Informatikerin.
+Das ist ein sehr sehr toller Test.
+Ich bin eine angehende Informatikerin.
